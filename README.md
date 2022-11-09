@@ -1,4 +1,4 @@
-# Decision-Tree
+# Machine Learning
 Aulas de Machine learning sobre:
   - Árvore de decisão
   - Floresta aleatória
